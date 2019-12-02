@@ -1,6 +1,6 @@
-# Project 2: NYC Housing Litigation Analysis
+## Project 2: NYC Housing Litigation Analysis
 
-## ** To quickly see the Shiny app of the analysis, click the link: https://sh3799.shinyapps.io/HousingLitigations/
+### ** To quickly see the Shiny app of the analysis, click the link: https://sh3799.shinyapps.io/HousingLitigations/
 
 + **Project summary**: 
 
